@@ -58,6 +58,7 @@ The following preprocessing steps were performed:
 Analyzed overall churn rate in the dataset.
 
 **Key Insight:** Around 25–30% of customers have churned, indicating a significant retention challenge.
+
 <img width="710" height="374" alt="image" src="https://github.com/user-attachments/assets/77678ca2-fc3c-4c47-9e81-5201a3cf6e9d" />
 
 
@@ -68,6 +69,7 @@ Analyzed overall churn rate in the dataset.
 Analyzed churn behavior based on gender.
 
 **Key Insight:** No major difference in churn between male and female customers.
+
 <img width="695" height="400" alt="image" src="https://github.com/user-attachments/assets/da983535-9516-4f30-8f7f-466fe9a7090b" />
 
 
@@ -87,6 +89,7 @@ Compared churn rates for senior vs non-senior customers.
 Analyzed how long customers stay with the company.
 
 **Key Insight:** Customers with shorter tenure are more likely to churn.
+
 <img width="711" height="290" alt="image" src="https://github.com/user-attachments/assets/0cfc0520-9a2e-4623-8343-e444831d0473" />
 
 
@@ -99,7 +102,8 @@ Studied the impact of contract type on churn.
 **Key Insight:**
 
 * Month-to-month customers have the highest churn
-* Long-term contracts (1 year, 2 year) reduce churn significantly
+* Long-term contracts (1 year, 2 year) reduce churn significantly.
+  
   <img width="687" height="414" alt="image" src="https://github.com/user-attachments/assets/c3e3e041-1a4f-4dc9-89a3-7c2a1e9d9ac9" />
 
 
@@ -114,6 +118,7 @@ Analyzed impact of additional services:
 * Streaming Services
 
 **Key Insight:** Customers without support or security services are more likely to churn.
+
 <img width="301" height="302" alt="image" src="https://github.com/user-attachments/assets/f528ad0f-bbb1-40f8-9901-82ffb277062e" />
 
 
@@ -124,6 +129,7 @@ Analyzed impact of additional services:
 Analyzed churn based on payment method.
 
 **Key Insight:** Customers using **electronic check** show higher churn compared to other methods.
+
 <img width="733" height="371" alt="image" src="https://github.com/user-attachments/assets/8772a790-7616-496a-ab73-e824d67c90e8" />
 
 
